@@ -18,6 +18,7 @@ El proyecto está construido en Java y se divide en tres partes principales:
    * **Mostrar inorden:** Recorrer el árbol visitando primero el lado izquierdo, luego la raíz y luego el lado derecho. Esto da como resultado los números ordenados de menor a mayor.
    * **Buscar:** Navegar por las ramas preguntando si el número buscado es mayor o menor que el nodo actual para encontrarlo rápidamente.
 3. **Clase Main:** Utiliza la clase `Scanner` para mostrar un menú interactivo en la consola, permitiendo al usuario ejecutar las operaciones anteriores.
+4.  Tarea realizada por el estudiante juan pablo rojas arboleda.
 
 ## Ejemplo de ejecución en consola
 
